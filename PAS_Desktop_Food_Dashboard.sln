@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAS_Desktop_Food_Dashboard", "PAS_Desktop_Food_Dashboard.csproj", "{26230282-5309-4B55-AF4B-61A5F5AFEE61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26230282-5309-4B55-AF4B-61A5F5AFEE61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26230282-5309-4B55-AF4B-61A5F5AFEE61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26230282-5309-4B55-AF4B-61A5F5AFEE61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26230282-5309-4B55-AF4B-61A5F5AFEE61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {876A0044-AC0F-4032-8EF9-A2C2B9DF315B}
+	EndGlobalSection
+EndGlobal
